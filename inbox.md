@@ -16,4 +16,4 @@
 
 adding some text
 
-[todo]
+[todo](todo.md)
